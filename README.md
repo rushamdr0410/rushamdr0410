@@ -37,13 +37,3 @@ Always learning, building, and exploring new technologies. 🚀
 </p>
 
 ---
-
-### 📈 Activity Overview
-![Activity Overview](https://raw.githubusercontent.com/rushamdr0410/rushamdr0410/master/profile-summary-card-output/solarized/0-profile-details.svg)
-
-### ⏰ Productive Time
-![Productive Time](https://raw.githubusercontent.com/rushamdr0410/rushamdr0410/master/profile-summary-card-output/solarized/4-productive-time.svg)
-
-
-
----
