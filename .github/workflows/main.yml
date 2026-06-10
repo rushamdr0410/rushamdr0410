@@ -1,23 +1,17 @@
 name: GitHub Profile Summary Cards
 
 on:
-  schedule: # Run once a day
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # Allow manual run
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write  
     steps:
-      - uses: actions/checkout@v4 
-      
-      - name: Configure Git 
-        run: |
-          git config user.email "action@github.com"
-          git config user.name "GitHub Action"
-      
+      - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GH_TOKEN }}
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
