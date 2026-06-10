@@ -1,4 +1,6 @@
-## About Me 👋
+# Rusha Manandhar
+
+
 I'm a **BCA student** passionate about coding and software development.  
 
 Currently improving my skills in **Core Java, Spring Boot, Hibernate, JavaFX, and Object-Oriented Programming** while building projects and strengthening my fundamentals.  
