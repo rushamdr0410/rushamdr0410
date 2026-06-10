@@ -36,6 +36,15 @@ Always learning, building, and exploring new technologies. 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushamdr0410&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
+---
+
+## 📊 Profile Summary
+
+![](profile-summary-card-output/profile-summary-card-output.svg)
+![](profile-summary-card-output/stats-card-output.svg)
+![](profile-summary-card-output/productive-time-card-output.svg)
+![](profile-summary-card-output/github-light.svg)
+
 
 
 ---
